@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Rounded Shield Container -->
+    <path
+        android:pathData="M54,24 L78,32 C78,54 67,68 54,76 C41,68 30,54 30,32 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#00E5FF">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="30"
+                android:startY="24"
+                android:endX="78"
+                android:endY="76"
+                android:type="linear">
+                <item android:color="#1A2F50" android:offset="0.0" />
+                <item android:color="#0F1B29" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Geometric 'M' left -->
+    <path
+        android:pathData="M37,42 L42,42 L46,55 L50,42 L53,42 L53,60 L49.5,60 L49.5,49 L46.5,58.5 L44.5,58.5 L41,49 L41,60 L37,60 Z"
+        android:fillColor="#00E5FF" />
+    <!-- Geometric 'M' right -->
+    <path
+        android:pathData="M55,42 L60,42 L64,55 L68,42 L71,42 L71,60 L67.5,60 L67.5,49 L64.5,58.5 L62.5,58.5 L59,49 L59,60 L55,60 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Underline cyan accent bar -->
+    <path
+        android:pathData="M40,64 L68,64"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round" />
+    <!-- Tiny cyan spark dot -->
+    <path
+        android:pathData="M54,34 L55,36 L57,37 L55,38 L54,40 L53,38 L51,37 L53,36 Z"
+        android:fillColor="#00E5FF" />
+</vector>

@@ -1,0 +1,17 @@
+{
+  "min_required_version": 1,
+  "latest_version": "1.0",
+  "force_update": false,
+  "is_app_disabled": false,
+  "disabled_title": "Maintenance Mode",
+  "disabled_message": "MM Tools সাময়িকভাবে মেইনটেনেন্সের জন্য বন্ধ রয়েছে। অনুগ্রহ করে কিছুক্ষণ পর আবার চেষ্টা করুন।",
+  "update_title": "Update Required",
+  "update_message": "MM Tools-এর একটি নতুন ভার্সন এসেছে। নতুন ফিচার ব্যবহার করতে এখনই আপডেট করুন।",
+  "download_url": "https://t.me/mmtechnical420",
+  "telegram_url": "https://t.me/mmtechnical420",
+  "force_join_telegram": false,
+  "force_join_title": "টেলিগ্রাম চ্যানেলে জয়েন করুন",
+  "force_join_message": "আমাদের অফিসিয়াল চ্যানেলে জয়েন করুন সকল নতুন আপডেট, ট্রিকস এবং সাপোর্ট সবার আগে পেতে!",
+  "force_join_url": "https://t.me/mmtechnical420",
+  "force_join_dismissible": true
+}

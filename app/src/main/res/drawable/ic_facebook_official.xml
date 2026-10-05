@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Official Facebook Blue Circle -->
+    <path
+        android:fillColor="#0866FF"
+        android:pathData="M24,24m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+    <!-- Official Facebook White 'f' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M27.4,45.72 V30.38 H32.51 L33.48,24 H27.4 V19.86 C27.4,18.13 28.25,16.44 30.97,16.44 H33.73 V11.05 C33.73,11.05 31.22,10.62 28.83,10.62 C23.83,10.62 20.56,13.65 20.56,19.14 V24 H14.99 V30.38 H20.56 V45.72 C21.7,45.9 22.84,46 24,46 C25.16,46 26.3,45.9 27.4,45.72 Z" />
+</vector>

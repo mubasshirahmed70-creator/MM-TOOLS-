@@ -1,0 +1,6 @@
+{
+  "name": "MM Tools",
+  "description": "Mobile utility browser with desktop mode, quick account access, 2FA shortcuts, and profile tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
