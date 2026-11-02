@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MM Tools</string>
+    <string name="desktop_mode_on">Desktop Mode: ON</string>
+    <string name="desktop_mode_off">Desktop Mode: OFF</string>
+    <string name="create_account">Create Account</string>
+    <string name="copy_uid">Copy UID</string>
+    <string name="two_factor_auth">2FA Security</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="refresh_page">Refresh</string>
+    <string name="floating_fb_desc">Open Facebook Home</string>
+    <string name="welcome_title">Welcome to MM Tools</string>
+    <string name="welcome_message">Thank you for using our app. Join our Telegram channel to receive updates.</string>
+    <string name="btn_join_telegram">Join Telegram</string>
+    <string name="btn_close">Close</string>
+    <string name="clear_data_confirm_title">Clear Browser Data?</string>
+    <string name="clear_data_confirm_msg">This will clear cookies, cache, web history, and local storage. This may log you out of your current session. Do you want to continue?</string>
+    <string name="btn_clear_confirm">Clear All Data</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="data_cleared_success">Browser data, cache, and cookies cleared successfully.</string>
+    <string name="uid_copied_success">UID copied to clipboard: %1$s</string>
+    <string name="uid_not_found">UID could not be determined. Please navigate to a profile page (e.g., profile.php?id=...) to copy the numeric UID.</string>
+</resources>
